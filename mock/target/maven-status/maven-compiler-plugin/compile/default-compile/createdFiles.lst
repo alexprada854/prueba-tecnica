@@ -1,0 +1,8 @@
+com\acme\mock\config\LoginEndpoint.class
+job\acme\com\login_web_service\Login.class
+job\acme\com\login_web_service\GetTokenResponse.class
+com\acme\mock\MockApplication.class
+job\acme\com\login_web_service\GetTokenRequest.class
+job\acme\com\login_web_service\package-info.class
+com\acme\mock\config\WsConfig.class
+job\acme\com\login_web_service\ObjectFactory.class

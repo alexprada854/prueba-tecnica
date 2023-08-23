@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Published by JAX-WS RI (http://jax-ws.java.net). RI's version is JAX-WS RI 2.3.1 svn-revision#6ef5f7eb9a938dbc4562f25f8fa0b67cc4ff2dbb.-->
+<xs:schema version="1.0" targetNamespace="http://com.acme.job/login-web-service" xmlns:tns="http://com.acme.job/login-web-service"  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+	<xs:element name="getTokenRequest">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="login" type="tns:login"/>
+			</xs:sequence>
+		</xs:complexType>
+    </xs:element>
+
+    <xs:element name="getTokenResponse">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="token" type="xs:string"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+	<xs:complexType name="login">
+        <xs:sequence>
+		  <xs:element name="userName" type="xs:string"/>
+		  <xs:element name="password" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+</xs:schema>

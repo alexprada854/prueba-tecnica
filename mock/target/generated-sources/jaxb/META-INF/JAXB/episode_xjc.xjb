@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bindings version="3.0" xmlns="https://jakarta.ee/xml/ns/jaxb">
+  <!--
+
+Este archivo ha sido generado por Eclipse Implementation of JAXB v3.0.0 
+Visite https://eclipse-ee4j.github.io/jaxb-ri 
+Todas las modificaciones realizadas en este archivo se perderán si se vuelve a compilar el esquema de origen. 
+Generado el: 2023.08.23 a las 09:47:18 AM COT 
+
+  -->
+  <bindings scd="x-schema::tns" xmlns:tns="http://com.acme.job/login-web-service">
+    <schemaBindings map="false">
+      <package name="job.acme.com.login_web_service"/>
+    </schemaBindings>
+    <bindings scd="tns:getTokenRequest">
+      <class ref="job.acme.com.login_web_service.GetTokenRequest"/>
+    </bindings>
+    <bindings scd="~tns:login">
+      <class ref="job.acme.com.login_web_service.Login"/>
+    </bindings>
+    <bindings scd="tns:getTokenResponse">
+      <class ref="job.acme.com.login_web_service.GetTokenResponse"/>
+    </bindings>
+  </bindings>
+</bindings>
+
