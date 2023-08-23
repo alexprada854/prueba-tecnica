@@ -1,0 +1,16 @@
+com\acme\newjob\config\TokenConfiguration.class
+com\acme\mock\wsdl\Login.class
+com\acme\mock\wsdl\TokenPort.class
+com\acme\newjob\repository\TokenUserRepository.class
+com\acme\newjob\controller\MainController.class
+com\acme\newjob\util\PropertiesLoader.class
+com\acme\mock\wsdl\package-info.class
+com\acme\newjob\dto\LoginRequest.class
+com\acme\newjob\model\TokenUser.class
+com\acme\mock\wsdl\ObjectFactory.class
+com\acme\mock\wsdl\TokenPortService.class
+com\acme\mock\wsdl\GetTokenResponse.class
+com\acme\newjob\NewJobApplication.class
+com\acme\mock\wsdl\GetTokenRequest.class
+com\acme\newjob\config\TokenClient.class
+com\acme\newjob\util\AppConstants.class

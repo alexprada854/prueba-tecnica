@@ -1,0 +1,16 @@
+C:\Users\Alex\Downloads\newjob\target\generated-sources\wsimport\com\acme\mock\wsdl\package-info.java
+C:\Users\Alex\Downloads\newjob\src\main\java\com\acme\newjob\NewJobApplication.java
+C:\Users\Alex\Downloads\newjob\src\main\java\com\acme\newjob\config\TokenConfiguration.java
+C:\Users\Alex\Downloads\newjob\src\main\java\com\acme\newjob\config\TokenClient.java
+C:\Users\Alex\Downloads\newjob\target\generated-sources\wsimport\com\acme\mock\wsdl\GetTokenRequest.java
+C:\Users\Alex\Downloads\newjob\target\generated-sources\wsimport\com\acme\mock\wsdl\ObjectFactory.java
+C:\Users\Alex\Downloads\newjob\src\main\java\com\acme\newjob\controller\MainController.java
+C:\Users\Alex\Downloads\newjob\target\generated-sources\wsimport\com\acme\mock\wsdl\TokenPort.java
+C:\Users\Alex\Downloads\newjob\src\main\java\com\acme\newjob\repository\TokenUserRepository.java
+C:\Users\Alex\Downloads\newjob\target\generated-sources\wsimport\com\acme\mock\wsdl\GetTokenResponse.java
+C:\Users\Alex\Downloads\newjob\target\generated-sources\wsimport\com\acme\mock\wsdl\TokenPortService.java
+C:\Users\Alex\Downloads\newjob\src\main\java\com\acme\newjob\util\AppConstants.java
+C:\Users\Alex\Downloads\newjob\src\main\java\com\acme\newjob\model\TokenUser.java
+C:\Users\Alex\Downloads\newjob\src\main\java\com\acme\newjob\dto\LoginRequest.java
+C:\Users\Alex\Downloads\newjob\src\main\java\com\acme\newjob\util\PropertiesLoader.java
+C:\Users\Alex\Downloads\newjob\target\generated-sources\wsimport\com\acme\mock\wsdl\Login.java
